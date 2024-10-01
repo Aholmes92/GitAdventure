@@ -11,3 +11,5 @@ function mysteryOperation ()
 		throw new Error("The operation is failed mysteriously!");
 	}
 }
+mysteryOperation()
+
